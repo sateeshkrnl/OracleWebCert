@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<system-libraries>
+    <library path="C:/Users/u352963/Softwares/glassfish3/glassfish/modules/jsf-api.jar" source="H:/git/OracleWebCert/TestWebProj/WebContent/WEB-INF/lib/jsf-api-2.1.0-b11-sources.jar"/>
+    <library path="C:/Users/u352963/Softwares/glassfish3/glassfish/modules/jsf-impl.jar" source="/TestWebProj/WebContent/WEB-INF/lib/jsf-impl-2.1.0-b11-sources.jar"/>
+</system-libraries>
