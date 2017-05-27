@@ -23,6 +23,7 @@ public class TestRestClass {
      */
     public TestRestClass() {
         // TODO Auto-generated constructor stub
+        // sample comments
     }
 
     /**
